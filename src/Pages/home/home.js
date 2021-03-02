@@ -6,7 +6,7 @@ function Home() {
       Hii, I am Pushpinder Singh.
       A Professional Front End Developer.
       <br>
-    <button>Hire Me<button>
+    <button>Hire Me</button>
     Ph: +91-9610226367
     </div>
   );
